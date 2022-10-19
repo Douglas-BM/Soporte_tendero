@@ -20,5 +20,8 @@
     <string name="menu_miaprendizaje">MI APRENDIZAJE</string>
     <string name="menu_soporte">SOPORTE</string>
     <!-- TODO: Remove or change this placeholder text -->
+
+    <!-- Soporte -->
+    <string name="nav_noticicaciones">Notificacioens</string>
     <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>

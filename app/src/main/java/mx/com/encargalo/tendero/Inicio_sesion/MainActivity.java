@@ -45,7 +45,8 @@ public class MainActivity extends AppCompatActivity {
                 R.id.nav_mis_ordenes,
                 R.id.nav_mi_publicidad,
                 R.id.nav_mi_aprendizaje,
-                R.id.nav_soporte)
+                R.id.nav_soporte,
+                R.id.nav_notificaciones)
                 .setDrawerLayout(drawer)
                 .build();
         NavController navController = Navigation.findNavController(this, R.id.nav_host_fragment);
